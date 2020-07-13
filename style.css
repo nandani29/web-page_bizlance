@@ -1,0 +1,55 @@
+.image{
+    height: 150px;
+    width:150px;
+    margin-left:30px;
+    margin-top:20px;
+    margin-bottom: 20px;;
+}
+.heading1{
+    margin-top:40px;
+    text-align:center;
+  
+}
+h3{
+    margin-bottom:20px;
+}
+.heading2{
+    margin-left:50px;
+
+}
+
+.heading3{
+    margin-left:50px;
+}
+.para{
+    margin-left:50px;
+}
+.hori{
+    border:1px solid black;
+    margin-left:40px;
+    margin-right: 40px;
+    margin-top:4px;
+}
+.int{
+    margin-bottom: 10px;
+
+}
+.tab
+{
+    margin-left:50px;
+}
+table, th, td {
+    border: 3px solid black;
+  }
+.row1{
+      margin-left:80%;
+  }
+.gallery{
+  margin-bottom: 15px;
+  width:150px;
+  height: 200px;
+  margin-left:430px;
+  }
+.gallery2{
+    margin-left: 400px;
+}
